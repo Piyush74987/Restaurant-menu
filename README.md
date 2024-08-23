@@ -15,6 +15,17 @@ Category Organization: Dishes categorized by type, such as Appetizers, Main Cour
 Detailed Descriptions: Each dish will have a description that includes ingredients, flavor profile.
 High-Quality Images: Professional photos of the dishes to entice customers and give them a visual idea of what to expect.
 
+### About Us Section:
+The story behind the restaurant, including its mission, the inspiration for the menu, and the team of chefs.
+Information about sourcing practices, such as local or organic produce.
+Customer testimonials or reviews to build trust and showcase the restaurant's reputation
+
+### Contact and Location Information:
+A contact form for inquiries, reservations, or feedback.
+Restaurant address, phone number, and operating hours.
+Integration with Google Maps for easy location finding.
+Links to social media pages.
+
 ## Sample images of website
 
 
