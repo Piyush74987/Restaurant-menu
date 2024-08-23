@@ -27,5 +27,7 @@ Integration with Google Maps for easy location finding.
 Links to social media pages.
 
 ## Sample images of website
-
+![Screenshot (8)](https://github.com/user-attachments/assets/0597baf2-8296-44c6-8b66-bc2e2ec46b50)
+![Screenshot (9)](https://github.com/user-attachments/assets/4dd95193-8c7f-4a19-a4fe-ebe65472557a)
+![Screenshot (10)](https://github.com/user-attachments/assets/eb9a4c29-92fc-4cea-844a-249b2d50280e)
 
